@@ -1,0 +1,28 @@
+  img:hover {
+    height: 120px;
+    background-color: gold;
+  }
+
+  body {
+    background-color: #E6E6FA;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    width: 30%;
+    border-color: grey;
+    border-width: 5px;
+  }
+
+  h1 {
+    color: #235952;
+  }
+
+  h3 {
+    color: #235952;
+  }
+.circular{
+  background-color: black;
+  border-radius: 100%;
+}
